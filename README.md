@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaneLovegood aka Khang Lê
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning JAVA
-- @ Need anything else? Please contact to me by email "duykhang12a7@gmail.com". Thank you.
+- @ Need anything else? Please contact to me by email "khangle.dev@gmail.com". Thank you.
 
 <!---
 KaneLovegood/KaneLovegood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
