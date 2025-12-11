@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm @KaneLovegood </h1>
+<h1 align="center">Hi 👋, I'm @KaneLovegood aka Khang Le </h1>
 <h3 align="center">🎓 Final-year Software Engineering student | 🚀 Aspiring Fullstack Developer</h3>
 
 <p align="left">- 🌱 I’m currently learning **NextJS, React and GSAP**
