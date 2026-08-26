@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **khangle.dev@gmail.com**
 
-- 📄 Know about my experiences [MyCV]([https://drive.google.com/file/d/1lJG6NP4WgJyeLWwtfmbZVMhMtl2_yXOv/view?usp=sharing](https://drive.google.com/file/d/1V67I7mtUN_mMz7KQzmH3DACAsv3taDJ1/view?usp=sharing))
+- 📄 Know about my experiences [MyCV](https://drive.google.com/file/d/1V67I7mtUN_mMz7KQzmH3DACAsv3taDJ1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
